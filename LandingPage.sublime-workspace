@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"fle",
+				"flex-basis"
+			],
+			[
+				"font-s",
+				"font-stretch"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"format",
+				"format"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"cat",
+				"catalog"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"page",
+				"pageTitle"
+			],
+			[
+				"brand",
+				"brand_id"
+			],
+			[
+				"pro_i",
+				"pro_id"
+			],
+			[
+				"pro_",
+				"pro_brand"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"insert",
+				"insert_pro"
+			],
+			[
+				"prod",
+				"product_keywords"
+			],
+			[
+				"produc",
+				"product_image"
+			],
+			[
+				"pr",
+				"product_brand"
+			],
+			[
+				"product_",
+				"product_image"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"inser",
+				"insert_product"
+			],
+			[
+				"produ",
+				"product_"
+			],
+			[
+				"bran",
+				"brand_id"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"-v",
+			"bash",
+			"composer"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/alan/Documents/My Web Sites/UdemyLandingPage"
+	],
+	"file_history":
+	[
+		"/C/Users/alan/Documents/My Web Sites/UdemyLandingPage/index.html",
+		"/C/Users/alan/Documents/My Web Sites/UdemyLandingPage/assets/css/styles.css",
+		"/C/Users/alan/Documents/My Web Sites/UdemyLandingPage/css-project-destinations-features/assets/css/styles.css",
+		"/C/Users/alan/Documents/My Web Sites/UdemyLandingPage/css-project-destinations-features/index.html",
+		"/C/Users/alan/Documents/My Web Sites/UdemyLandingPage/css-project-header/assets/css/styles.css",
+		"/C/xampp/php/php.ini",
+		"/C/Users/alan/Desktop/csharp_collections/C# Collections/Stage_3/Video_5/MorseCodeTranslator.cs",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/s4v2/suggest.php",
+		"/C/xampp/htdocs/s4v2/inc/phpmailer/class.phpmailer.php",
+		"/C/xampp/htdocs/s4v2/suggest.php-tmp",
+		"/C/xampp/htdocs/s4v2/index.php",
+		"/C/xampp/htdocs/s4v2/inc/PHPMailer/phpdoc.dist.xml",
+		"/C/xampp/htdocs/s1v1/data.php",
+		"/C/xampp/htdocs/s1v1/suggest.php",
+		"/C/xampp/htdocs/s1v1/catalog.php",
+		"/C/xampp/htdocs/s1v1/index.php",
+		"/C/xampp/htdocs/s1v1/inc/functions.php",
+		"/C/xampp/htdocs/s1v1/inc/header.php",
+		"/C/xampp/htdocs/s2v2/suggest.php",
+		"/C/xampp/htdocs/s2v2/catalog.php",
+		"/C/xampp/htdocs/s1v1/css/style.css",
+		"/C/xampp/htdocs/s1v1/inc/footer.php",
+		"/C/xampp/htdocs/s1v1/suggest.php-tmp",
+		"/C/xampp/htdocs/TH_PHP/s1v1/index.php",
+		"/C/xampp/htdocs/TH_PHP/index.php",
+		"/C/xampp/htdocs/TH_PHP/s1v1/index.html",
+		"/C/xampp/htdocs/TH_PHP/index.php-tmp",
+		"/c/xampp/php/logs/php_error_log",
+		"/C/xampp/htdocs/ecommerce/styles/style.css",
+		"/C/xampp/htdocs/ecommerce/header.php",
+		"/C/xampp/htdocs/ecommerce/results.php",
+		"/C/xampp/htdocs/ecommerce/all_products.php",
+		"/C/xampp/htdocs/ecommerce/details.php",
+		"/C/xampp/htdocs/ecommerce/admin_area/insert_product.php",
+		"/C/xampp/htdocs/ecommerce/footer.php",
+		"/C/xampp/htdocs/ecommerce/functions/functions.php",
+		"/C/xampp/htdocs/ecommerce/admin_area/includes/db.php",
+		"/C/xampp/htdocs/ecommerce/index.php",
+		"/C/xampp/mysql/bin/my.ini"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");",
+			"$row_cat_pro",
+			"$row_pro",
+			"pro_desc",
+			"footer",
+			"\t\t\t<tr>\n\t\t\t\t<td>Product Title:</td>\n\t\t\t\t<td><input type=\"text\" name=\"product_title\"></td>\n\t\t\t</tr>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$row_brand_pro",
+			"$row_cat_pro"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LandingPage.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
